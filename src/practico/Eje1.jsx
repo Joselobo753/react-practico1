@@ -1,8 +1,8 @@
 
-const Ejeone = () => {
+const Eje1 = () => {
   return (
     <h1>Hola mundo desde un componente</h1>
   )
 }
 
-export default Ejeone
+export default Eje1
