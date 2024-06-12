@@ -1,11 +1,12 @@
-import Ejeone from "./practico/Eje1.jsx"
+import Eje1 from "./practico/Eje1.jsx"
 
 const App = () => {
+ 
   return (
     <>
-    <h1>Hola mundo!!!!!!</h1>
+    <h1>Hola </h1>
   
-    <Ejeone />
+    <Eje1 eje2="mi amigo esto es una propType" />
     </>
   )
 }
