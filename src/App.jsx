@@ -1,6 +1,6 @@
 import Borrar1 from "./borrar/borrar1.jsx"
 import Eje1 from "./practico/Eje1.jsx"
-import Eje4 from "./practico/Eje4.jsx"
+import Eje4 from "./practico//eje4/Eje4.jsx"
 
 const App = () => {
  
