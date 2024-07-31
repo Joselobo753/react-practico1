@@ -1,11 +1,11 @@
-import Ejeone from "./practico/Eje1.jsx"
+
+import RootView from "./views/Root.jsx"
 
 const App = () => {
+ 
   return (
     <>
-    <h1>Hola mundo!!!!!!</h1>
-  
-    <Ejeone />
+    <RootView/>
     </>
   )
 }
